@@ -43,9 +43,9 @@ All devices were lawfully procured and tested in isolated lab environments. Find
 If you reference this research, please cite as:
 
 > Gaines, Jon. *Examining the Security Posture of an Anti-Crime Ecosystem.* GainSec Research, v1.0PR Public Release, 2025.  
-> DOI: 10.5281/zenodo.17529423
+> DOI: 10.5281/zenodo.17529424
 
-<a href="https://doi.org/10.5281/zenodo.17529423"><img src="https://zenodo.org/badge/1090045213.svg" alt="DOI"></a>
+[![DOI](https://zenodo.org/badge/1090045213.svg)](https://doi.org/10.5281/zenodo.17529423)
 
 ---
 
