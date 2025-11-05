@@ -46,7 +46,6 @@ If you reference this research, please cite as:
 
 > Gaines, Jon. *Examining the Security Posture of an Anti-Crime Ecosystem.* GainSec Research, v1.0PR Public Release, 2025.  
 > DOI: [10.5281/zenodo.17529424](https://doi.org/10.5281/zenodo.17529424)
-> For the latest version, see [10.5281/zenodo.1750000](https://doi.org/10.5281/zenodo.1750000)
 
 ---
 
