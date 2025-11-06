@@ -11,7 +11,7 @@
 ## Overview
 This repository hosts the public release of independent research into an anti-crime technology ecosystem, including a gunshot detection system, license plate readers, and compute modules.
 
-It documents **45 findings**, 22 with assigned CVEs and an additional 4 pending assignment, including issues encompassing but not limited to, cryptographic controls, authentication, and key management.
+It documents **45 findings**, 22 with assigned CVEs and an additional 4 pending assignment related but not limited to authentication, cryptography, and system design in an anti-crime technology ecosystem.
 
 ---
 
