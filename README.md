@@ -1,7 +1,8 @@
 # Examining the Security Posture of an Anti-Crime Ecosystem
 **Author:** Jon “GainSec” Gaines  
 **Original Version:** 1.0 Public Release (1.0PR) — 2025-11-05  
-**Current Version:** 1.1 Public Release (1.1PR) — 2025-11-06  
+**Current Version:** 1.2 Public Release (1.2PR) — 2025-11-11  
+
 **Contact:** whitepaper@gainsecmail.com
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17529424.svg)](https://doi.org/10.5281/zenodo.17529424)
@@ -11,7 +12,7 @@
 ## Overview
 This repository hosts the public release of independent research into an anti-crime technology ecosystem, including a gunshot detection system, license plate readers, and compute modules.
 
-It documents **45 findings**, 22 with assigned CVEs and an additional 4 pending assignment related but not limited to authentication, cryptography, and system design in an anti-crime technology ecosystem.
+It documents **51 findings**, 22 with assigned CVEs and an additional 8 pending assignment related but not limited to authentication, cryptography, and system design in an anti-crime technology ecosystem.
 
 ---
 
@@ -28,13 +29,13 @@ This repository serves as the authoritative, continuously maintained archive for
 All devices were lawfully procured and tested in isolated lab environments. Findings were reported to the vendor following a responsible disclosure timeline. No production systems or networks were accessed or affected. Further details about the responsible disclosure process are available within the whitepaper.
 
 **CVE coordination:** MITRE / NIST NVD  
-**Disclosure window:** Feb 2025 → Jan 2026 (as of publication)  
-**Vendor notified:** the affected vendor (details provided in the whitepaper)
+**Disclosure window:** Feb 2025 → Feb 2026 (as of latest publication)  
+**Vendor notified:** Flock Safety "The Vendor" (details provided in the whitepaper)
 
 ---
 
 ## Contents
-- `/whitepaper` — PDF publication v1.1 Public Release (v1.1PR) 
+- `/whitepaper` — PDF publication v1.2 Public Release (v1.2PR) 
 - `/statement` — Formal distributable statement summarizing key findings and material facts  
 - `/DISCLAIMER.md` — Legal and ethical testing notice, full detailed disclaimer is available within the whitepaper  
 - `/defenders-checklist` — Full Defender’s Checklist referenced in Appendix C (comprehensive version for practitioners)  
@@ -45,7 +46,7 @@ All devices were lawfully procured and tested in isolated lab environments. Find
 ## Citation
 If you reference this research, please cite as:
 
-> Gaines, Jon. *Examining the Security Posture of an Anti-Crime Ecosystem.* GainSec Research, v1.1PR Public Release, 2025.  
+> Gaines, Jon. *Examining the Security Posture of an Anti-Crime Ecosystem.* GainSec Research, v1.2PR Public Release, 2025.  
 > DOI: [10.5281/zenodo.17529424](https://doi.org/10.5281/zenodo.17529424)
 
 ---
