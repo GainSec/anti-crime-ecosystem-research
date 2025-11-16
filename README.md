@@ -56,3 +56,17 @@ This repository and its contents are provided for **defensive security, academic
 Do not attempt to reproduce any procedure or test on systems you do not own or have explicit written authorization to assess.  
 All operational details and sensitive technical data capable of facilitating exploitation have been purposefully redacted.
 Full Disclaimer can be found within the white paper.
+
+---
+
+## Informal Technical Write-ups
+
+- [Part 1: Bird Hunting Season – Security Research on Flock Safety’s Anti-Crime Systems](https://gainsec.com/2025/06/19/bird-hunting-season-security-research-on-flock-safety-anti-crime-systems/)
+- [Part 2: Plucked and Rooted – Device 1: Debug Shell on Flock Safety’s Raven Gunshot Detection System](https://gainsec.com/2025/06/19/plucked-and-rooted-device-1-debug-shell-on-flock-safetys-raven-gunshot-detection-system/)
+- [Part 3: Grounded Flight – Device 2: Root Shell on Flock Safety’s Falcon/Sparrow Automated License Plate Reader](https://gainsec.com/2025/06/19/grounded-flight-device-2-root-shell-on-flock-safetys-falcon-sparrow-automated-license-plate-reader/)
+- [Part 4: Trap Shooter – Flock Safety Sniffer & Alarm](https://gainsec.com/2025/06/30/trap-shooter-tiny-flock-safety-sniffer-alarm/)
+- [Part 5: Root from the Coop – Device 3: Root Shell on Flock Safety’s Picard/Bravo Compute Box](https://gainsec.com/2025/09/19/root-from-the-coop-device-3-root-shell-on-flock-safetys-bravo-compute-box/)
+- [Part 6: Fly-By – Device 2: The Falcon/Sparrow – Gated Wireless RCE, Camera Feed, DoS, Information Disclosure and More](https://gainsec.com/2025/09/27/fly-by-device-2-the-falcon-sparrow-gated-wireless-rce-camera-feed-dos-information-disclosure-and-more/)
+- [Part 7: Button Presses to Wireless RCE: Shell on Flock Safety’s License Plate Cameras Over Wi-Fi](https://gainsec.com/2025/09/27/button-presses-to-shell-on-flock-safety-license-plate-cameras-over-wi-fi/)
+- [Part 8: Formalizing my Flock Safety Research](https://gainsec.com/2025/11/05/formalizing-my-flock-safety-security-research/)
+- [Part 9: BirdEye - Tool to Test Flock Safety’s ML Visual Recognition Models](https://gainsec.com/2025/11/12/birdeye/)
